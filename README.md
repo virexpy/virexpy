@@ -40,10 +40,10 @@ I'm a self-taught backend developer from bavaria
 ## 🧑‍💻 Contribution
 
 <a href="https://github.com/virexpy/virexp">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxince&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=virexpy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&hide_border=true" alt="GitHub Stats">
 </a>
 <a href="https://github.com/virexpy/virexp">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virexpy&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </a>
 
 
