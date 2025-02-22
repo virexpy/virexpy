@@ -1,5 +1,5 @@
 # :rocket: About Me
-I'm a self-taught backend developer from bavaria
+I'm a self-taught backend developer from germany
 
 :man_technologist: Working as Office Management<br>:gear: I use daily: ``.js``, ``.html``, ``.css``, ``.lua``
 
